@@ -69,11 +69,6 @@ def login_page():
             st.error("Invalid credentials")
 
 # ----------------------------- HOME PAGE -----------------------------
-# def home_page():
-#     st.title("🛡️ Secure Data Storage")
-#     st.write("Choose an action:")
-#     st.page_link("Insert Data", label="🔐 Store New Data")
-#     st.page_link("Retrieve Data", label="🔓 Retrieve Stored Data")
 
 
 def home_page():
